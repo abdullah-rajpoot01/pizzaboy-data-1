@@ -1,0 +1,13 @@
+[
+  {
+    "shopId": "12342578-2e13-45e8-adf6-e267a6fa6204",
+    "handle": "pizza-palace",
+    "name": "Pizza House",
+    "phone": "+92 300 1234567",
+    "whatsapp": "+92 300 1234567",
+    "description": "Best pizza in town",
+    "image": "/logo.webp",
+    "dataUrl": "https://pizzaboy-data-1.pages.dev",
+    "imageBaseUrl": "https://myshop-images-1.pages.dev"
+  }
+]

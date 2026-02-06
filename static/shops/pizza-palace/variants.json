@@ -1,0 +1,78 @@
+[
+    {
+        "variant_id": "size",
+        "name": "Size",
+        "options": {
+            "s": "Small",
+            "m": "Medium",
+            "l": "Large"
+        }
+    },
+    {
+        "variant_id": "crust",
+        "name": "Crust Type",
+        "options": {
+            "thin": "Thin Crust",
+            "thick": "Thick Crust",
+            "cheese_burst": "Cheese Burst"
+        }
+    },
+    {
+        "variant_id": "sauce",
+        "name": "Sauce",
+        "options": {
+            "tomato": "Classic Tomato",
+            "bbq": "BBQ Sauce",
+            "alfredo": "Alfredo Sauce",
+            "pesto": "Pesto Sauce"
+        }
+    },
+    {
+        "variant_id": "cheese",
+        "name": "Cheese",
+        "options": {
+            "regular": "Regular Cheese",
+            "extra": "Extra Cheese",
+            "mozzarella": "Mozzarella",
+            "vegan": "Vegan Cheese"
+        }
+    },
+    {
+        "variant_id": "toppings",
+        "name": "Toppings",
+        "options": {
+            "pepperoni": "Pepperoni",
+            "mushroom": "Mushrooms",
+            "onion": "Onions"
+        }
+    },
+    {
+        "variant_id": "spice_level",
+        "name": "Spice Level",
+        "options": {
+            "mild": "Mild",
+            "medium": "Medium",
+            "hot": "Hot",
+            "extra_hot": "Extra Hot"
+        }
+    },
+    {
+        "variant_id": "addons",
+        "name": "Add-ons",
+        "options": {
+            "extra_sauce": "Extra Sauce",
+            "extra_cheese": "Extra Cheese",
+            "chili_flakes": "Chili Flakes",
+            "oregano": "Oregano"
+        }
+    },
+    {
+        "variant_id": "meal_type",
+        "name": "Meal Type",
+        "options": {
+            "regular": "Regular",
+            "combo": "Combo Meal",
+            "family": "Family Pack"
+        }
+    }
+]

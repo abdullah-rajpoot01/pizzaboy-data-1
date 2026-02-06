@@ -1,0 +1,42 @@
+[
+    {
+        "addon_id": "extra_cheese",
+        "name": "Extra Cheese"
+    },
+    {
+        "addon_id": "mushrooms",
+        "name": "Mushrooms"
+    },
+    {
+        "addon_id": "olives",
+        "name": "Olives"
+    },
+    {
+        "addon_id": "jalapenos",
+        "name": "Jalapeños"
+    },
+    {
+        "addon_id": "pepperoni",
+        "name": "Pepperoni"
+    },
+    {
+        "addon_id": "chicken",
+        "name": "Chicken"
+    },
+    {
+        "addon_id": "paneer",
+        "name": "Paneer"
+    },
+    {
+        "addon_id": "extra_sauce",
+        "name": "Extra Sauce"
+    },
+    {
+        "addon_id": "chili_flakes",
+        "name": "Chili Flakes"
+    },
+    {
+        "addon_id": "oregano",
+        "name": "Oregano"
+    }
+]

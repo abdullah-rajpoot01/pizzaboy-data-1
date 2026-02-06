@@ -1,0 +1,740 @@
+[
+  {
+    "product_id": "146ab446-9ff4-436t1-8f11-010216219f9e8",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204",
+    "shop_handle": "pizza-palace",
+    "category_id": "deals",
+    "featured": true,
+    "name": "Extreme Cheesy Ranch",
+    "description": "Secret sauce at base, cheese, black pepper chicken, onions, capsicum, jalapenos, gherkins topped with our special ranch sauce.",
+    "image": "/deal-1.webp",
+    "available": true,
+    "discount": {
+      "type": "fixed",
+      "value": 20,
+      "active": true,
+      "start_date": "2026-01-01T00:00:00Z",
+      "end_date": "2026-02-15T23:59:59Z"
+    },
+    "variants": [
+      {
+        "pricing": {
+          "l": 1500,
+          "m": 1300,
+          "s": 800
+        },
+        "required": true,
+        "variant_id": "size",
+        "default_option_id": "m"
+      },
+      {
+        "pricing": {
+          "thin": 0,
+          "thick": 100,
+          "cheese_burst": 250
+        },
+        "required": true,
+        "variant_id": "crust",
+        "default_option_id": "thin"
+      }
+    ],
+    "addons": [
+      {
+        "price": 200,
+        "addon_id": "cheese"
+      }
+    ],
+    "created_at": "2025-12-30T13:34:34.644017+00:00",
+    "updated_at": "2025-12-30T13:34:34.644017+00:00"
+  },
+  {
+    "product_id": "146ab446-9ff4-4361-8f11-010t216219f9e8",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204",
+    "shop_handle": "pizza-palace",
+    "category_id": "deals",
+    "featured": true,
+    "name": "Extreme Peri Crunch",
+    "description": "Secret sauce at base, lots of cheese, crispy chicken chunks, onion, tomatoes, capsicum, red and green jalapenos topped with our signature Peri sauce",
+    "image": "/deal-2.webp",
+    "available": true,
+    "discount": {
+      "type": "fixed",
+      "value": 20,
+      "active": true
+    },
+    "variants": [
+      {
+        "pricing": {
+          "l": 1600,
+          "m": 1000,
+          "s": 800
+        },
+        "required": true,
+        "variant_id": "size",
+        "default_option_id": "m"
+      },
+      {
+        "pricing": {
+          "thin": 0,
+          "thick": 100,
+          "cheese_burst": 250
+        },
+        "required": true,
+        "variant_id": "crust",
+        "default_option_id": "thin"
+      }
+    ],
+    "addons": [
+      {
+        "price": 200,
+        "addon_id": "cheese"
+      }
+    ],
+    "created_at": "2025-12-30T13:34:34.644017+00:00",
+    "updated_at": "2025-12-30T13:34:34.644017+00:00"
+  },
+  {
+    "product_id": "146ab446-9ff4-4361-8f11-010216219f9et8",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204",
+    "shop_handle": "pizza-palace",
+    "category_id": "deals",
+    "featured": false,
+    "name": "Double Melt Extreme",
+    "description": "Double crust with special cheese sauces.",
+    "image": "/deal-3.webp",
+    "available": true,
+    "discount": {
+      "type": "fixed",
+      "value": 20,
+      "active": true
+    },
+    "variants": [
+      {
+        "pricing": {
+          "l": 1600,
+          "m": 1200,
+          "s": 800
+        },
+        "required": true,
+        "variant_id": "size",
+        "default_option_id": "m"
+      },
+      {
+        "pricing": {
+          "thin": 0,
+          "thick": 100,
+          "cheese_burst": 250
+        },
+        "required": true,
+        "variant_id": "crust",
+        "default_option_id": "thin"
+      }
+    ],
+    "addons": [
+      {
+        "price": 200,
+        "addon_id": "cheese"
+      }
+    ],
+    "created_at": "2025-12-30T13:34:34.644017+00:00",
+    "updated_at": "2025-12-30T13:34:34.644017+00:00"
+  },
+  {
+    "product_id": "146ab446-9ff4-4361-8f11-010216219f9e5t8",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204",
+    "shop_handle": "pizza-palace",
+    "category_id": "pizza",
+    "featured": false,
+    "name": "Chicken Supreme",
+    "description": "Chicken tikka, fajita chicken, smoked chicken, onions, black olive, mushrooms, green peppers & lots of cheese.",
+    "image": "/pizza-1.webp",
+    "available": true,
+    "discount": {
+      "type": "fixed",
+      "value": 20,
+      "active": true
+    },
+    "variants": [
+      {
+        "pricing": {
+          "l": 1600,
+          "m": 1000,
+          "s": 800
+        },
+        "required": true,
+        "variant_id": "size",
+        "default_option_id": "m"
+      },
+      {
+        "pricing": {
+          "thin": 0,
+          "thick": 100,
+          "cheese_burst": 250
+        },
+        "required": true,
+        "variant_id": "crust",
+        "default_option_id": "thin"
+      }
+    ],
+    "addons": [
+      {
+        "price": 200,
+        "addon_id": "cheese"
+      }
+    ],
+    "created_at": "2025-12-30T13:34:34.644017+00:00",
+    "updated_at": "2025-12-30T13:34:34.644017+00:00"
+  },
+  {
+    "product_id": "146ab446-9ff4-4361-8f11-010216219f9e7",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204",
+    "shop_handle": "pizza-palace",
+    "category_id": "pizza",
+    "featured": false,
+    "name": "Tikka Chicken",
+    "description": "Tikka chicken, tomato sauce, onions and cheese.",
+    "image": "/pizza-2.webp",
+    "available": true,
+    "discount": {
+      "type": "percentage",
+      "value": 20,
+      "active": true
+    },
+    "variants": [
+      {
+        "pricing": {
+          "l": 1600,
+          "m": 1200,
+          "s": 800
+        },
+        "required": true,
+        "variant_id": "size",
+        "default_option_id": "m"
+      },
+      {
+        "pricing": {
+          "thin": 0,
+          "thick": 100,
+          "cheese_burst": 250
+        },
+        "required": true,
+        "variant_id": "crust",
+        "default_option_id": "thin"
+      }
+    ],
+    "addons": [
+      {
+        "price": 200,
+        "addon_id": "cheese"
+      }
+    ],
+    "created_at": "2025-12-30T13:34:34.644017+00:00",
+    "updated_at": "2025-12-30T13:34:34.644017+00:00"
+  },
+  {
+    "product_id": "146ab446-9ff4-4361-8f11-010216219f9e6",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204",
+    "shop_handle": "pizza-palace",
+    "category_id": "burgers",
+    "featured": false,
+    "discount": {
+      "type": "percentage",
+      "value": 20,
+      "active": true
+    },
+    "name": "Dynamite",
+    "description": "Crispy fried thigh, crispy lettuce, spicy dynamite sauce, served in a sesame seed bun.",
+    "image": "/burger-1.webp",
+    "available": true,
+    "variants": [
+      {
+        "pricing": {
+          "l": 1600,
+          "m": 1200,
+          "s": 800
+        },
+        "required": true,
+        "variant_id": "size",
+        "default_option_id": "m"
+      },
+      {
+        "pricing": {
+          "thin": 0,
+          "thick": 100,
+          "cheese_burst": 250
+        },
+        "required": true,
+        "variant_id": "crust",
+        "default_option_id": "thin"
+      }
+    ],
+    "addons": [
+      {
+        "price": 200,
+        "addon_id": "cheese"
+      }
+    ],
+    "created_at": "2025-12-30T13:34:34.644017+00:00",
+    "updated_at": "2025-12-30T13:34:34.644017+00:00"
+  },
+  {
+    "product_id": "146ab446-9ff4-4361-8f11-010216219f9e5",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204",
+    "shop_handle": "pizza-palace",
+    "category_id": "burgers",
+    "featured": false,
+    "name": "Red Dragon",
+    "discount": {
+      "type": "percentage",
+      "value": 20,
+      "active": true
+    },
+    "description": "Crispy fried chicken, fresh lettuce, cabbage, sesame seed , oriental sauce, spicy dynamite sauce, served in a sesame seed bun.",
+    "image": "/burger-2.webp",
+    "available": true,
+    "variants": [
+      {
+        "pricing": {
+          "l": 1600,
+          "m": 1200,
+          "s": 800
+        },
+        "required": true,
+        "variant_id": "size",
+        "default_option_id": "m"
+      },
+      {
+        "pricing": {
+          "thin": 0,
+          "thick": 100,
+          "cheese_burst": 250
+        },
+        "required": true,
+        "variant_id": "crust",
+        "default_option_id": "thin"
+      }
+    ],
+    "addons": [
+      {
+        "price": 200,
+        "addon_id": "cheese"
+      }
+    ],
+    "created_at": "2025-12-30T13:34:34.644017+00:00",
+    "updated_at": "2025-12-30T13:34:34.644017+00:00"
+  },
+  {
+    "product_id": "146ab446-9ff4-4361-8f11-0810216219f9e4",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204",
+    "shop_handle": "pizza-palace",
+    "discount": {
+      "type": "percentage",
+      "value": 20,
+      "active": true
+    },
+    "category_id": "burgers",
+    "featured": true,
+    "name": "Zingler",
+    "description": "Crispy fried chicken, fresh lettuce, spicy dynamite sauce, served in a sesame seed bun.",
+    "image": "/burger-3.webp",
+    "available": true,
+    "variants": [
+      {
+        "pricing": {
+          "l": 1600,
+          "m": 1200,
+          "s": 800
+        },
+        "required": true,
+        "variant_id": "size",
+        "default_option_id": "m"
+      },
+      {
+        "pricing": {
+          "thin": 0,
+          "thick": 100,
+          "cheese_burst": 250
+        },
+        "required": true,
+        "variant_id": "crust",
+        "default_option_id": "thin"
+      }
+    ],
+    "addons": [
+      {
+        "price": 200,
+        "addon_id": "cheese"
+      }
+    ],
+    "created_at": "2025-12-30T13:34:34.644017+00:00",
+    "updated_at": "2025-12-30T13:34:34.644017+00:00"
+  },
+  {
+    "product_id": "146ab8446-9ff4-4361-8f11-0102516219f9e3",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204",
+    "shop_handle": "pizza-palace",
+    "discount": {
+      "type": "percentage",
+      "value": 20,
+      "active": true
+    },
+    "category_id": "burgers",
+    "featured": true,
+    "name": "Texas Hot",
+    "description": "Chicken patty, fresh tomatoes, lettuce, melted cheese, spicy jalapeno sauce, mustard mayo, served in a potato bun.",
+    "image": "/burger-4.webp",
+    "available": true,
+    "variants": [
+      {
+        "pricing": {
+          "l": 1600,
+          "m": 1200,
+          "s": 800
+        },
+        "required": true,
+        "variant_id": "size",
+        "default_option_id": "m"
+      },
+      {
+        "pricing": {
+          "thin": 0,
+          "thick": 100,
+          "cheese_burst": 250
+        },
+        "required": true,
+        "variant_id": "crust",
+        "default_option_id": "thin"
+      }
+    ],
+    "addons": [
+      {
+        "price": 200,
+        "addon_id": "cheese"
+      }
+    ],
+    "created_at": "2025-12-30T13:34:34.644017+00:00",
+    "updated_at": "2025-12-30T13:34:34.644017+00:00"
+  },
+  {
+    "product_id": "146ab446-9ff4-4361-8f11-010216219f9e28",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204",
+    "shop_handle": "pizza-palace",
+    "category_id": "pastas",
+    "featured": false,
+    "name": "Mexican Crispy Pasta",
+    "description": "Fried chicken, mushrooms, and penne pasta baked in a blend of farmhouse, garnished with black olives and mozzarella cheese.",
+    "image": "/pasta-1.webp",
+    "available": true,
+    "discount": {
+      "type": "percentage",
+      "value": 20,
+      "active": true
+    },
+    "variants": [
+      {
+        "pricing": {
+          "l": 1600,
+          "m": 1200,
+          "s": 800
+        },
+        "required": true,
+        "variant_id": "size",
+        "default_option_id": "m"
+      },
+      {
+        "pricing": {
+          "thin": 0,
+          "thick": 100,
+          "cheese_burst": 250
+        },
+        "required": true,
+        "variant_id": "crust",
+        "default_option_id": "thin"
+      }
+    ],
+    "addons": [
+      {
+        "price": 200,
+        "addon_id": "cheese"
+      }
+    ],
+    "created_at": "2025-12-30T13:34:34.644017+00:00",
+    "updated_at": "2025-12-30T13:34:34.644017+00:00"
+  },
+  {
+    "product_id": "146ab446-9ff4-4361-8f11-010241621f9e81",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204",
+    "shop_handle": "pizza-palace",
+    "category_id": "pastas",
+    "featured": false,
+    "name": "Fettuccine Alfredo",
+    "description": "Baked chicken, mushrooms and fetti layers, baked in garlic mayo and white cream with top mozzarella cheese",
+    "image": "/pasta-2.webp",
+    "available": true,
+    "discount": {
+      "type": "percentage",
+      "value": 20,
+      "active": true
+    },
+    "variants": [
+      {
+        "pricing": {
+          "l": 1600,
+          "m": 1200,
+          "s": 800
+        },
+        "required": true,
+        "variant_id": "size",
+        "default_option_id": "m"
+      },
+      {
+        "pricing": {
+          "thin": 0,
+          "thick": 100,
+          "cheese_burst": 250
+        },
+        "required": true,
+        "variant_id": "crust",
+        "default_option_id": "thin"
+      }
+    ],
+    "addons": [
+      {
+        "price": 200,
+        "addon_id": "extra_cheese"
+      }
+    ],
+    "created_at": "2025-12-30T13:34:34.644017+00:00",
+    "updated_at": "2025-12-30T13:34:34.644017+00:00"
+  },
+  {
+    "product_id": "146ab446-9ff4-4361-8f11-9010216219f9e1",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204",
+    "shop_handle": "pizza-palace",
+    "category_id": "wings",
+    "featured": false,
+    "name": "Oven Baked Wings",
+    "description": "Special oven baked wings with BBQ flavor.",
+    "image": "/wing-1.webp",
+    "available": true,
+    "discount": {
+      "type": "percentage",
+      "value": 20,
+      "active": true
+    },
+    "variants": [
+      {
+        "pricing": {
+          "l": 1600,
+          "m": 1200,
+          "s": 800
+        },
+        "required": true,
+        "variant_id": "size",
+        "default_option_id": "m"
+      },
+      {
+        "pricing": {
+          "thin": 0,
+          "thick": 100,
+          "cheese_burst": 250
+        },
+        "required": true,
+        "variant_id": "crust",
+        "default_option_id": "thin"
+      }
+    ],
+    "addons": [
+      {
+        "price": 200,
+        "addon_id": "extra_cheese"
+      }
+    ],
+    "created_at": "2025-12-30T13:34:34.644017+00:00",
+    "updated_at": "2025-12-30T13:34:34.644017+00:00"
+  },
+  {
+    "product_id": "146ab446-9ff4-4361-8f11-0102162190f9e1",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204",
+    "shop_handle": "pizza-palace",
+    "category_id": "pastas",
+    "featured": true,
+    "name": "Hot N Spicy",
+    "description": "Chicken chunks, mushrooms, capsicam, red sauce topped with mozzarella and cheddar cheese",
+    "image": "/pasta-3.webp",
+    "available": true,
+    "discount": {
+      "type": "percentage",
+      "value": 20,
+      "active": true
+    },
+    "variants": [
+      {
+        "pricing": {
+          "l": 1600,
+          "m": 1200,
+          "s": 800
+        },
+        "required": true,
+        "variant_id": "size",
+        "default_option_id": "m"
+      },
+      {
+        "pricing": {
+          "thin": 0,
+          "thick": 100,
+          "cheese_burst": 250
+        },
+        "required": true,
+        "variant_id": "crust",
+        "default_option_id": "thin"
+      }
+    ],
+    "addons": [
+      {
+        "price": 200,
+        "addon_id": "extra_cheese"
+      }
+    ],
+    "created_at": "2025-12-30T13:34:34.644017+00:00",
+    "updated_at": "2025-12-30T13:34:34.644017+00:00"
+  },
+  {
+    "product_id": "146ab446-9ff4-4361-8f11-010216219f9e41",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204",
+    "shop_handle": "pizza-palace",
+    "category_id": "rolls",
+    "featured": false,
+    "name": "Zinger Chicken Rolls",
+    "description": "Crispy chicken stuffed in creamy tortilla bread.",
+    "image": "/roll-1.webp",
+    "available": true,
+    "discount": {
+      "type": "percentage",
+      "value": 20,
+      "active": true
+    },
+    "variants": [
+      {
+        "pricing": {
+          "l": 1600,
+          "m": 1200,
+          "s": 800
+        },
+        "required": true,
+        "variant_id": "size",
+        "default_option_id": "m"
+      },
+      {
+        "pricing": {
+          "thin": 0,
+          "thick": 100,
+          "cheese_burst": 250
+        },
+        "required": true,
+        "variant_id": "crust",
+        "default_option_id": "thin"
+      }
+    ],
+    "addons": [
+      {
+        "price": 200,
+        "addon_id": "extra_cheese"
+      }
+    ],
+    "created_at": "2025-12-30T13:34:34.644017+00:00",
+    "updated_at": "2025-12-30T13:34:34.644017+00:00"
+  },
+  {
+    "product_id": "146ab446-9ff4-4361-8f411-010216219f9e1",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204",
+    "shop_handle": "pizza-palace",
+    "category_id": "rolls",
+    "featured": false,
+    "name": "Stuffed Chicken Spring Rolls",
+    "description": "4 pieces spring rolls, wrapped in tortilla bread, stuffed with special marinated chicken cubes, and topped with mozzarella cheese.",
+    "image": "/roll-2.webp",
+    "available": true,
+    "discount": {
+      "type": "percentage",
+      "value": 20,
+      "active": true
+    },
+    "variants": [
+      {
+        "pricing": {
+          "l": 1600,
+          "m": 1200,
+          "s": 800
+        },
+        "required": true,
+        "variant_id": "size",
+        "default_option_id": "m"
+      },
+      {
+        "pricing": {
+          "thin": 0,
+          "thick": 100,
+          "cheese_burst": 250
+        },
+        "required": true,
+        "variant_id": "crust",
+        "default_option_id": "thin"
+      }
+    ],
+    "addons": [
+      {
+        "price": 200,
+        "addon_id": "extra_cheese"
+      }
+    ],
+    "created_at": "2025-12-30T13:34:34.644017+00:00",
+    "updated_at": "2025-12-30T13:34:34.644017+00:00"
+  },
+  {
+    "product_id": "146ab446-9ff4-4361-8f11-0102162149f9e1",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204",
+    "shop_handle": "pizza-palace",
+    "category_id": "wings",
+    "featured": true,
+    "name": "Breaded Saucy Wings",
+    "description": "Crispy deep fried breaded chicken wings with buffalo sauce.",
+    "image": "/wing-2.webp",
+    "available": true,
+    "discount": {
+      "type": "percentage",
+      "value": 20,
+      "active": true
+    },
+    "variants": [
+      {
+        "pricing": {
+          "l": 1600,
+          "m": 1200,
+          "s": 800
+        },
+        "required": true,
+        "variant_id": "size",
+        "default_option_id": "m"
+      },
+      {
+        "pricing": {
+          "thin": 0,
+          "thick": 100,
+          "cheese_burst": 250
+        },
+        "required": true,
+        "variant_id": "crust",
+        "default_option_id": "thin"
+      }
+    ],
+    "addons": [
+      {
+        "price": 200,
+        "addon_id": "extra_cheese"
+      }
+    ],
+    "created_at": "2025-12-30T13:34:34.644017+00:00",
+    "updated_at": "2025-12-30T13:34:34.644017+00:00"
+  }
+]

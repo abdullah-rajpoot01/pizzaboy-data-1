@@ -1,0 +1,44 @@
+[
+  {
+    "category_id": "deals",
+    "label": "Super Duper Deals",
+    "name": "Deals",
+    "image": "/hero-section-6.webp",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204"
+  },
+  {
+    "category_id": "pizza",
+    "label": "Super flavour pizza",
+    "name": "Pizza",
+    "image": "/pizza-1.webp",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204"
+  },
+  {
+    "category_id": "burgers",
+    "label": "Juicy grilled burgers",
+    "name": "Burger",
+    "image": "/burger-1.webp",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204"
+  },
+  {
+    "category_id": "pastas",
+    "label": "Creamy Italian pasta",
+    "name": "Pasta",
+    "image": "/pasta-1.webp",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204"
+  },
+  {
+    "category_id": "wings",
+    "label": "Tasty crispy sides",
+    "name": "Wings",
+    "image": "/wing-1.webp",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204"
+  },
+  {
+    "category_id": "rolls",
+    "label": "Mouthwatering Rolls",
+    "name": "Rolls",
+    "image": "/roll-1.webp",
+    "shop_id": "12342578-2e13-45e8-adf6-e267a6fa6204"
+  }
+]

@@ -1,0 +1,62 @@
+{
+    "basic": {
+        "plan": "basic",
+        "price": 499,
+        "features": {
+            "max_branches": 1,
+            "online_ordering": false,
+            "whatsapp_ordering": true,
+            "max_menu_items": 20,
+            "max_orders_per_month": 0,
+            "custom_theme": false,
+            "custom_domain": false,
+            "discounts": false,
+            "coupon_codes": false
+        }
+    },
+    "standard": {
+        "plan": "standard",
+        "price": 999,
+        "features": {
+            "max_branches": 1,
+            "online_ordering": true,
+            "whatsapp_ordering": true,
+            "max_menu_items": 50,
+            "max_orders_per_month": 200,
+            "custom_theme": true,
+            "custom_domain": false,
+            "discounts": true,
+            "coupon_codes": false
+        }
+    },
+    "pro": {
+        "plan": "pro",
+        "price": 1499,
+        "features": {
+            "max_branches": 1,
+            "online_ordering": true,
+            "whatsapp_ordering": true,
+            "max_menu_items": 90,
+            "max_orders_per_month": 500,
+            "custom_theme": true,
+            "custom_domain": true,
+            "discounts": true,
+            "coupon_codes": true
+        }
+    },
+    "diamond": {
+        "plan": "diamond",
+        "price": 2500,
+        "features": {
+            "max_branches": 5,
+            "online_ordering": true,
+            "whatsapp_ordering": true,
+            "max_menu_items": 150,
+            "max_orders_per_month": 900,
+            "custom_theme": true,
+            "custom_domain": true,
+            "discounts": true,
+            "coupon_codes": true
+        }
+    }
+}

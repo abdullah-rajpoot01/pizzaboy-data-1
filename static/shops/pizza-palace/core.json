@@ -1,0 +1,130 @@
+{
+  "shop_id": "shop_001",
+  "shop_handle": "pizza-palace",
+  "shop_type": "food",
+  "brand": {
+    "logo": "/logo.webp",
+    "name": "Pizza Palace",
+    "slogan": "Taste the Best Pizza in Town",
+    "tagline": "Fresh. Hot. Delicious.",
+    "description": "Pizza Palace serves freshly baked pizzas made with premium ingredients."
+  },
+  "contact": {
+    "email": "info@pizzapalace.com",
+    "phone": "+92-300-1234567",
+    "whatsapp": "+92-300-1234567",
+    "support_email": "support@pizzapalace.com"
+  },
+  "currency": {
+    "code": "PKR",
+    "symbol": "₨",
+    "position": "before",
+    "locale": "en-PK"
+  },
+  "address": {
+    "city": "Lahore",
+    "state": "Punjab",
+    "country": "Pakistan",
+    "postal_code": "54000",
+    "full_address": "Main Boulevard, Gulberg, Lahore",
+    "google_maps_url": "https://maps.google.com/?q=Lahore",
+    "latitude": 31.5204,
+    "longitude": 74.3587
+  },
+  "business_hours": {
+    "timeLabel": "Open Daily",
+    "time": "12:00 PM - 11:00 PM",
+    "timezone": "Asia/Karachi"
+  },
+  "social": {
+    "facebook": "https://facebook.com/pizzapalace",
+    "instagram": "https://instagram.com/pizzapalace"
+  },
+  "ordering": {
+    "accepts_pickup": true,
+    "accepts_delivery": true,
+    "minimum_order_value": 800
+  },
+  "subscription": {
+    "shop_id": "shop_001",
+    "plan": "pro",
+    "status": "active",
+    "start_date": "2026-01-01T00:00:00Z",
+    "end_date": "2026-12-31T23:59:59Z",
+    "features": {
+      "online_ordering": false,
+      "whatsapp_ordering": true,
+      "max_menu_items": 200,
+      "max_orders_per_month": 5000,
+      "custom_theme": true,
+      "custom_domain": false,
+      "discounts": false,
+      "coupon_codes": false
+    }
+  },
+  "pricing_rules": {
+    "shop_id": "shop_001",
+    "discount": {
+      "type": "percentage",
+      "value": 10,
+      "active": true,
+      "start_date": "2026-02-01",
+      "end_date": "2026-02-28"
+    },
+    "delivery": {
+      "fee": 150,
+      "free_above": 2000,
+      "delivery_radius_km": 8,
+      "estimated_delivery_time": "45-60 mins",
+      "active": true
+    },
+    "tax": {
+      "type": "percentage",
+      "value": 5,
+      "active": true
+    }
+  },
+  "seo": {
+    "title": "Pizza Palace – Order Online",
+    "description": "Order fresh pizza online with fast delivery.",
+    "og_image": "/og.png"
+  },
+  "theme": {
+    "primary": "#f3647c",
+    "secondary": "#ed95a4",
+    "tertiary": "#f8dfe2"
+  },
+  "hero_images": [
+    {
+      "url": "/hero-section-1.webp",
+      "id": "146ab446-9ff4-436t1-8f11-010216219f9e8"
+    },
+    {
+      "url": "/hero-section-2.webp",
+      "id": "146ab446-9ff4-4361-8f11-0810216219f9e4"
+    },
+    {
+      "url": "/hero-section-3.webp",
+      "id": "146ab446-9ff4-4361-8f11-010216219f9e41"
+    },
+    {
+      "url": "/hero-section-4.webp",
+      "id": "146ab446-9ff4-4361-8f11-0102162149f9e1"
+    },
+    {
+      "url": "/hero-section-5.webp",
+      "id": "146ab446-9ff4-4361-8f11-0102162190f9e1"
+    }
+  ],
+  "status": {
+    "is_live": true,
+    "maintenance_mode": false
+  },
+  "base_urls": {
+    "data": "https://pizzaboy-data-1.pages.dev",
+    "images": "https://myshop-images-1.pages.dev",
+    "backend": "https://pizzaboy-data-1.pages.dev"
+  },
+  "created_at": "2026-01-01T00:00:00Z",
+  "updated_at": "2026-02-01T10:00:00Z"
+}
